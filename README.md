@@ -16,7 +16,7 @@ And I would grateful someone can share knowledege with me,
 - Big O cheat sheet: https://www.bigocheatsheet.com/
 - Video: https://www.youtube.com/watch?v=B3SpQZaAZP4&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN&index=11
 
-### Concepts:
+### My Note:
 - For Big O: 
 **Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/BIG%20O**
 
