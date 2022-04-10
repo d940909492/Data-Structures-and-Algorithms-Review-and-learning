@@ -11,7 +11,7 @@ And I would grateful someone can share knowledege with me,
 4. [More,updating...](#More)
 
 
-## Big O
+## BIG O
 ### Helpful Link
 https://www.bigocheatsheet.com/
 
