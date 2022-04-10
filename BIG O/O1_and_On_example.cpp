@@ -19,7 +19,7 @@ Two separate collections: O(a * b)
 
 using namespace std;
 
-void anotherFunction(parameter){
+void anotherFunction(int parameter){
     //just for example, not a actual function
 }
 
@@ -31,7 +31,7 @@ void o1(int parameter){
 void o_n(int parameter){
     int x = 10; //O(1)
     for(int i = 0; i<parameter; i++){ //O(n) ,b/c is a for loop
-        anotherFunction(); //O(n), b/c is depend on for loop
+        anotherFunction(parameter); //O(n), b/c is depend on for loop
         i++; //O(n) , b/c is depend on for loop
         x++; //O(n) same reason
     }
@@ -39,6 +39,6 @@ void o_n(int parameter){
 
 int main()
 {
-    cout<<"Total is BIG O(3 + 4n) or you can simplify it as BIG O(n)"
+    cout<<"Total is BIG O(3 + 4n) or you can simplify it as BIG O(n)";
     return 0;
 }
