@@ -13,8 +13,8 @@ And I would grateful someone can share knowledege with me,
 
 ## BIG O and Algorithmic complexity
 ### Helpful Link
-https://www.bigocheatsheet.com/
-
+**Big O cheat sheet: ** https://www.bigocheatsheet.com/
+**Video: ** https://www.youtube.com/watch?v=B3SpQZaAZP4&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN&index=11
 
 ### Concepts:
 - For Big O: 
