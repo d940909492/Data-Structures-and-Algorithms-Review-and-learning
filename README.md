@@ -16,10 +16,8 @@ And I would grateful someone can share knowledege with me,
 https://www.bigocheatsheet.com/
 
 
-### Concepts
-On "code"
-
-### For Big O
+### Concepts:
+#### For Big O:
 Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/BIG%20O
 
 
