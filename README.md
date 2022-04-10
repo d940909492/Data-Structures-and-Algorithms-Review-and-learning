@@ -10,19 +10,24 @@ And I would grateful someone can share knowledege with me
 3.[Algorithms](#Algorithms)
 4.[More,updating...](#More)
 
-##Big O
-###Helpful Link
+
+## Big O
+### Helpful Link
 https://www.bigocheatsheet.com/
 
-###Concepts
+
+### Concepts
 On "code"
 Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/BIG%20O
 
-##Data Structures
+
+## Data Structures
 Updating
 
-##Algorithms
+
+## Algorithms
 Updating
 
-##More
+
+## More
 Updating
