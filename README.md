@@ -11,7 +11,7 @@ And I would grateful someone can share knowledege with me,
 4. [More,updating...](#More)
 
 
-## BIG-O-and-Algorithmic-complexity
+## BIG O Algorithmic complexity
 ### Helpful Link
 - Big O cheat sheet: https://www.bigocheatsheet.com/
 - Video: https://www.youtube.com/watch?v=B3SpQZaAZP4&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN&index=11
