@@ -39,6 +39,6 @@ void o_n(int parameter){
 
 int main()
 {
-    cout<<"Total is BIG O(3 + 4n) or you can simpl"
+    cout<<"Total is BIG O(3 + 4n) or you can simplify it as BIG O(n)"
     return 0;
 }
