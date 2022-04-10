@@ -15,6 +15,7 @@ And I would grateful someone can share knowledege with me,
 ### Helpful Link
 - Big O cheat sheet: https://www.bigocheatsheet.com/
 - Video: https://www.youtube.com/watch?v=B3SpQZaAZP4&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN&index=11
+- Video: https://www.youtube.com/watch?v=CBYHwZcbD-s&t=73s
 
 ### My Note:
 - For Big O: 
