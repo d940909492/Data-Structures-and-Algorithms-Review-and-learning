@@ -1,8 +1,8 @@
-# Data-Structures-and-Algorithms-learning
+# Data-Structures-and-Algorithms-learning(C++ Version)
 Learning data structures and algorithms right now,
 would keep update,
 I would put what I learn and some helpful resouces in this repository,
-And I would grateful someone can share knowledege with me,
+And I would grateful someone can share knowledege with me,(Note write on C++)
 
 ## Learning Plans (and Concepts)
 1. [BIG O and Algorithmic complexity](#BIG-O-Algorithmic-complexity)
