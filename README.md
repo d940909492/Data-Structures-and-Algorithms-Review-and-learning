@@ -5,7 +5,7 @@ I would put what I learn and some helpful resouces in this repository,
 And I would grateful someone can share knowledege with me,(Note write on C++)
 
 ## Learning Plans (and Concepts)
-1. [BIG O and Algorithmic complexity](#BIG-O-Algorithmic-complexity)
+1. [BIG O and Algorithmic complexity](#BIG-O-And-Algorithmic-complexity)
 2. [Data Structures](#Data-Structures)
 3. [Algorithms](#Algorithms)
 4. [More,updating...](#More)
