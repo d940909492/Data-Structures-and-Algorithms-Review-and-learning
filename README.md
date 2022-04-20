@@ -31,6 +31,7 @@ And I would grateful someone can share knowledege with me
 - https://www.coursera.org/lecture/data-structures/arrays-OsBSF
 - https://www.youtube.com/watch?v=1jtrQqYpt7g
 #### Note:
+Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/Data%20Structures/Array
 (updating...)
 
 ##### (PS: Most of my notes are using vector, so if you are not familiar with vector, heres useful link: https://www.geeksforgeeks.org/vector-in-cpp-stl/)
