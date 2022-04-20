@@ -33,7 +33,7 @@ And I would grateful someone can share knowledege with me
 #### Note:
 (updating...)
 
-##### (PS: Most of my notes are using vector, so if you are not not familiar with vector, heres useful link: https://www.geeksforgeeks.org/vector-in-cpp-stl/)
+##### (PS: Most of my notes are using vector, so if you are not familiar with vector, heres useful link: https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 
 ### 2.Hash Tables:
 #### Helpful video: (updating)
