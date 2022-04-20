@@ -24,6 +24,10 @@ And I would grateful someone can share knowledege with me,(Note write on C++)
 
 ## Data Structures
 ### Array:
+#### Helpful video: https://www.youtube.com/watch?v=jzJlq35dQII&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=6
+                    https://www.youtube.com/watch?v=30MKAcoffIo&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=7
+
+#### Helpful link: 
 
 (Updating.....)
 
