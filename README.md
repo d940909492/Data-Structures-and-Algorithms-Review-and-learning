@@ -24,8 +24,13 @@ And I would grateful someone can share knowledege with me,(Note write on C++)
 
 ## Data Structures
 ### Array:
-#### Helpful video: https://www.youtube.com/watch?v=jzJlq35dQII&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=6
-                    https://www.youtube.com/watch?v=30MKAcoffIo&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=7
+#### Helpful video: 
+- https://www.youtube.com/watch?v=jzJlq35dQII&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=6
+- https://www.youtube.com/watch?v=30MKAcoffIo&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=7
+- https://www.coursera.org/lecture/data-structures/arrays-OsBSF
+- https://www.youtube.com/watch?v=1jtrQqYpt7g
+#### Note:
+(updating...)
 
 #### Helpful link: 
 
