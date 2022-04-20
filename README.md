@@ -2,7 +2,8 @@
 Learning data structures and algorithms right now,
 would keep update,
 I would put what I learn and some helpful resouces in this repository,
-And I would grateful someone can share knowledege with me,(Note write on C++)
+And I would grateful someone can share knowledege with me
+(This is C++ version, I might update other programming languages)
 
 ## Learning Plans (and Concepts)
 1. [BIG O and Algorithmic complexity](#BIG-O-And-Algorithmic-complexity)
