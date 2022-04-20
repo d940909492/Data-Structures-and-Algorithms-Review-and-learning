@@ -23,7 +23,9 @@ And I would grateful someone can share knowledege with me,(Note write on C++)
 
 
 ## Data Structures
-Updating
+###Array:
+
+(Updating.....)
 
 
 ## Algorithms
