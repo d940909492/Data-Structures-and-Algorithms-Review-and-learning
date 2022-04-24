@@ -8,9 +8,9 @@ And I would grateful someone can share knowledege with me <br />
 ## Learning Plans (and Concepts)
 1. [BIG O and Algorithmic complexity](#BIG-O-And-Algorithmic-complexity)
 2. [Data Structures](#Data-Structures)
-   - [Arrays](#1.Arrays)
-   - [Linked lists](#2.Linked-lists)
-   - [Hash Tables](#3.Hash-Tables)
+   - [Arrays](#Arrays)
+   - [Linked lists](#Linked-lists)
+   - [Hash Tables](#Hash-Tables)
    - [Stacks](#)
    - [Queues](#)
    - [Trees](#)
@@ -32,7 +32,7 @@ And I would grateful someone can share knowledege with me <br />
 <br />
 
 ## Data Structures
-### 1.Arrays
+- ### Arrays
 #### Helpful video: 
 - https://www.youtube.com/watch?v=jzJlq35dQII&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=6
 - https://www.youtube.com/watch?v=30MKAcoffIo&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=7
@@ -56,10 +56,10 @@ Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learnin
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) <br />
 <br />
 
-### 2.Linked lists
+- ### Linked lists
 #### (updating)
 
-### 3.Hash Tables
+- ### Hash Tables
 #### Helpful video: (updating)
 
 #### Note:
