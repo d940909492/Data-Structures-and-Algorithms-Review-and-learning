@@ -11,10 +11,10 @@ And I would grateful someone can share knowledege with me <br />
    - [Array](#Array)
    - [Linked lists](#Linked-lists)
    - [Hash Table](#Hash-Tables)
-   - [Stacks]
-   - [Queues]
-   - [Trees]
-   - [Graphs]
+   - [Stacks](#)
+   - [Queues](#)
+   - [Trees](#)
+   - [Graphs](#)
 4. [Algorithms](#Algorithms)
 5. [More,updating...](#More)
 <br />
