@@ -33,11 +33,17 @@ And I would grateful someone can share knowledege with me
 #### Note:
 Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/Data%20Structures/Array
 (updating...)
-
-##### (PS: Most of my notes are using vector, so if you are not familiar with vector, heres useful link: https://www.geeksforgeeks.org/vector-in-cpp-stl/)
+##### (PS: Most of my notes are using vector, so if you are not familiar with vector, heres useful link: [vector](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 
 #### LeetCode practice:
-- [testing](https://www.youtube.com/)
+- [Sort Array](https://leetcode.com/problems/sort-an-array/)
+- [Two Sum](https://leetcode.com/problems/two-sum/description/)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+- [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [Move Zero](https://leetcode.com/problems/move-zeroes/description/)
+- [Merge Sorted array](https://leetcode.com/problems/merge-sorted-array/)
+- [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 
 ### 2.Hash Tables:
 #### Helpful video: (updating)
