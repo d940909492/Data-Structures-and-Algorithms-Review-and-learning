@@ -8,8 +8,8 @@ And I would grateful someone can share knowledege with me <br />
 ## Learning Plans (and Concepts)
 1. [BIG O and Algorithmic complexity](#BIG-O-And-Algorithmic-complexity)
 2. [Data Structures](#Data-Structures)
-   - [Array](##Array)
-   - [Linked lists](##Linked-lists)
+   - [Array](##Arrays)
+   - [Linked list](##Linked-lists)
    - [Hash Table](##Hash-Tables)
    - [Stacks](#)
    - [Queues](#)
@@ -32,7 +32,7 @@ And I would grateful someone can share knowledege with me <br />
 <br />
 
 ## Data Structures
-### 1.Array
+### 1.Arrays
 #### Helpful video: 
 - https://www.youtube.com/watch?v=jzJlq35dQII&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=6
 - https://www.youtube.com/watch?v=30MKAcoffIo&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=7
