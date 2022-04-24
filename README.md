@@ -8,8 +8,15 @@ And I would grateful someone can share knowledege with me <br />
 ## Learning Plans (and Concepts)
 1. [BIG O and Algorithmic complexity](#BIG-O-And-Algorithmic-complexity)
 2. [Data Structures](#Data-Structures)
-3. [Algorithms](#Algorithms)
-4. [More,updating...](#More)
+   - [Array](#Array)
+   - [Linked lists](#Linked-lists)
+   - [Hash Table](#Hash-Tables)
+   - [Stacks]
+   - [Queues]
+   - [Trees]
+   - [Graphs]
+4. [Algorithms](#Algorithms)
+5. [More,updating...](#More)
 <br />
 
 ## BIG O And Algorithmic complexity
