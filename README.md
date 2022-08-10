@@ -63,7 +63,7 @@ Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learnin
 
 
 - ### Hash Tables
-(map or unordered_map)
+(it call map or unordered_map in c++)
 #### Helpful video: (updating)
 
 #### Note:
