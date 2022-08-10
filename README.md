@@ -62,7 +62,7 @@ Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learnin
 <br />
 
 
-- ### Hash Tables
+- ### Hash Tables(map or unorder_map)
 #### Helpful video: (updating)
 
 #### Note:
