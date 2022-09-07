@@ -89,7 +89,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 
 #### LeetCode:
 - (Hash table practice): https://leetcode.com/tag/hash-table/
-- (For beginner)https://leetcode.com/explore/learn/card/hash-table/
+- (Leetcode beginner package about hash)https://leetcode.com/explore/learn/card/hash-table/
 <br />
 
 - ### Stacks
