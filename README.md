@@ -5,7 +5,7 @@ I would put what I learn and some helpful resouces in this repository,
 And I would grateful someone can share knowledege with me <br />
 My personal email: dong5455993@gmail.com<br />
 (This is C++ version, I might update other programming languages) <br />
-Also, this is the best guide for learning DS and Alg: https://github.com/d940909492/coding-interview-university <br />
+Also, this is the best guide for learning DS and Alg: https://github.com/jwasham/coding-interview-university <br />
 
 ## Learning Plans (and Concepts)
 1. [BIG O and Algorithmic complexity](#BIG-O-And-Algorithmic-complexity)
