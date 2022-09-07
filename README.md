@@ -13,10 +13,10 @@ Also, this is the best guide for learning DS and Alg: https://github.com/jwasham
    - [Arrays](#Arrays)
    - [Linked lists](#Linked-lists)
    - [Hash Tables](#Hash-Tables)
-   - [Stacks](#)
-   - [Queues](#)
-   - [Trees](#)
-   - [Graphs](#)
+   - [Stacks](#Stacks)
+   - [Queues](#Queues)
+   - [Trees](#Trees)
+   - [Graphs](#Graphs)
 4. [Algorithms](#Algorithms)
 5. [More,updating...](#More)
 <br />
@@ -86,6 +86,14 @@ Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learnin
 - (Hash table practice): https://leetcode.com/tag/hash-table/
 - (For beginner)https://leetcode.com/explore/learn/card/hash-table/
 <br />
+
+- ### Stacks
+
+- ### Queues
+
+- ### Trees
+
+- ### Graphs
 
 ## Algorithms
 Updating
