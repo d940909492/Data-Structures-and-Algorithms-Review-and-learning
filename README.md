@@ -76,8 +76,8 @@ Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learnin
 
 #### Helpful link: 
 - https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/
-- (Map Method) https://en.cppreference.com/w/cpp/container/map
 - (Unordered_Map Method) https://en.cppreference.com/w/cpp/container/unordered_map
+(Remeber, use Unordered_Map for hash table, Not Map)
 - (Different between Map and Unordered_Map) https://www.geeksforgeeks.org/map-vs-unordered_map-c/
 <br />
 
