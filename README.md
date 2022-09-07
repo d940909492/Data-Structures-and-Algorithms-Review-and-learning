@@ -64,15 +64,22 @@ Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learnin
 
 - ### Hash Tables
 (it call map or unordered_map in c++)
-#### Helpful video: (updating)
+#### Helpful video: 
+- Concept: https://www.youtube.com/watch?v=shs0KM3wKv8
+- Implementation :https://www.youtube.com/watch?v=2_3fR-k-LzI&t=558s
+- https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9
+- (Advanced) https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12
+<br />
 
 #### Note:
-(updating...)
+
 
 #### Helpful link: 
-
-(Updating.....)
-
+-https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/
+-(Map Method) https://en.cppreference.com/w/cpp/container/map
+-(Unordered_Map Method) https://en.cppreference.com/w/cpp/container/unordered_map
+-(Different between Map and Unordered_Map) https://www.geeksforgeeks.org/map-vs-unordered_map-c/
+<br />
 
 ## Algorithms
 Updating
