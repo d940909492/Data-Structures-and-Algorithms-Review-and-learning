@@ -55,7 +55,9 @@ Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learnin
 - [Move Zero](https://leetcode.com/problems/move-zeroes/description/)
 - [Merge Sorted array](https://leetcode.com/problems/merge-sorted-array/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
-- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) <br />
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) 
+- [And More](https://leetcode.com/tag/array/)
+<br />
 <br />
 
 - ### Linked lists
