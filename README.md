@@ -20,9 +20,7 @@ Also, this is the best guide for learning DS and Alg: https://github.com/jwasham
 4. [Algorithms](#Algorithms)
    - [Recursion](#Recursion)
    - [Sorting](#Sorting)
-   - [Searching](#Searching)
-      - Breadth-First Search
-      - Depth First Search
+   - [Searching](#Searching) (PS: Big topic)
    - [Polynomial](#Polynomial)
    - 
 5. [More,updating...](#More)
