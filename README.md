@@ -21,9 +21,9 @@ Also, this is the best guide for learning DS and Alg: https://github.com/jwasham
    - [Recursion](#Recursion)
    - [Sorting](#Sorting)
    - [Searching](#Searching)
-   - [dynamic programming](#dynamic programming)
+   - [dynamic programming](#dynamic_programming)
    - [squaring](#Squaring)
-   - [Primality Testing](#Primality Testing)
+   - [Primality Testing](#Primality_Testing)
 5. [More,updating...](#More)
 <br />
 
