@@ -20,9 +20,10 @@ Also, this is the best guide for learning DS and Alg: https://github.com/jwasham
 4. [Algorithms](#Algorithms)
    - [Recursion](#Recursion)
    - [Sorting](#Sorting)
-   - [Searching](#Searching) (PS: Big topic)
-   - [Polynomial](#Polynomial)
-   - 
+   - [Searching](#Searching)
+   - [dynamic programming](#dynamic programming)
+   - [squaring](#Squaring)
+   - [Primality Testing](#Primality Testing)
 5. [More,updating...](#More)
 <br />
 
@@ -106,8 +107,12 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - ### Graphs
 
 ## Algorithms
-Updating
-
+- ### Recursion
+- ### Sorting
+- ### Searching
+- ### dynamic programming
+- ### squaring
+- ### Primality Testing
 
 ## More
 Updating
