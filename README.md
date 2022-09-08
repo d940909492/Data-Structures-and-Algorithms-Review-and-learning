@@ -21,8 +21,8 @@ Also, this is the best guide for learning DS and Alg: https://github.com/jwasham
    - [Recursion](#Recursion)
    - [Sorting](#Sorting)
    - [Searching](#Searching)
-   - # Breadth-First Search
-   - # Depth First Search
+      - Breadth-First Search
+      - Depth First Search
    - [Polynomial](#Polynomial)
    - 
 5. [More,updating...](#More)
