@@ -110,9 +110,9 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - ### Recursion
 - ### Sorting
 - ### Searching
-- ### dynamic programming
+- ### dynamic_programming
 - ### squaring
-- ### Primality Testing
+- ### Primality_Testing
 
 ## More
 Updating
