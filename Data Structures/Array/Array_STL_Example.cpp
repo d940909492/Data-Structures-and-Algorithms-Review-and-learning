@@ -22,5 +22,9 @@ int main()
     
     array.emplace(array.begin() ,9); //insert an element in specific position, this is O(n) because it add an new element and move or shift rest all elements after it
     print(array);
+    
+    /*
+    more method at: https://cplusplus.com/reference/vector/vector/
+    */
     return 0;
 }
