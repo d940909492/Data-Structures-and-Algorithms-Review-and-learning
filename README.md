@@ -79,7 +79,9 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 - [Why you should avoid Linked-lists](https://www.youtube.com/watch?v=YQs6IC-vgmo)
 
 #### Helpful link:
-- [Something you know about the pointer to pointer](https://www.eskimo.com/~scs/cclass/int/sx8.html)<br />
+- [Something you know about the pointer to pointer](https://www.eskimo.com/~scs/cclass/int/sx8.html)
+- [Useful website for c++ linked lists](https://www.geeksforgeeks.org/data-structures/linked-list/)
+<br />
 
 #### Note:
 <br />
