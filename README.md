@@ -83,6 +83,7 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 
 #### Note:
 <br />
+
 #### Leetcode:
 <br />
 
@@ -96,7 +97,6 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 - [Implementation without STL](https://www.youtube.com/watch?v=2_3fR-k-LzI&t=558s)
 - [Advanced](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9)
 - [Advanced](https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12)
-<br />
 
 #### Note:
 ##### Note for how to implement hash with stl and without stl: <br />
