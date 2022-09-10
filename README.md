@@ -80,7 +80,7 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 
 #### Helpful link:
 - [Something you know about the pointer to pointer](https://www.eskimo.com/~scs/cclass/int/sx8.html)
-- [Useful website for c++ linked lists](https://www.geeksforgeeks.org/data-structures/linked-list/)
+- [Useful website about c++ linked lists](https://www.geeksforgeeks.org/data-structures/linked-list/)
 <br />
 
 #### Note:
