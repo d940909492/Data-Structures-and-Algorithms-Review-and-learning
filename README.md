@@ -70,8 +70,17 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 - ### Linked lists
 #### Helpful video:
 - [Singly-Linked Lists](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
+- [Double linked Lists](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
 - [Linked list and Array](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9)
 - [Linked list and Array in real world](https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd)
+- [How to create link lists in c++](https://www.youtube.com/watch?v=o5wJkJJpKtM)
+- [c++ Introduction to Linked Lists](https://www.youtube.com/watch?v=HKfj0l7ndbc)
+- [C++ Tutorial - LINKED LISTS](https://www.youtube.com/watch?v=m7rrk65GiXY)
+- [Why you should avoid Linked-lists](https://www.youtube.com/watch?v=YQs6IC-vgmo)
+<br />
+
+#### Helpful link:
+- [Something you know about the pointer to pointer](https://www.eskimo.com/~scs/cclass/int/sx8.html)
 <br />
 
 - ### Hash Tables
@@ -82,6 +91,12 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 - [Implementation without STL](https://www.youtube.com/watch?v=2_3fR-k-LzI&t=558s)
 - [Advanced](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9)
 - [Advanced](https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12)
+
+#### Note:
+<br />
+#### Leetcode:
+<br />
+
 <br />
 
 #### Note:
