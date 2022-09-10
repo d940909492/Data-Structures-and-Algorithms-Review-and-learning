@@ -40,7 +40,7 @@ Also, this is the best guide for learning DS and Alg: https://github.com/jwasham
 <br />
 
 ## Data Structures
-- ### Arrays
+### Arrays
 #### Helpful video: 
 - https://www.youtube.com/watch?v=jzJlq35dQII&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=6
 - https://www.youtube.com/watch?v=30MKAcoffIo&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=7
@@ -67,7 +67,7 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 <br />
 <br />
 
-- ### Linked lists
+### Linked lists
 #### Helpful video:
 - [Singly-Linked Lists](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
 - [Double linked Lists](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
@@ -79,7 +79,7 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 - [Why you should avoid Linked-lists](https://www.youtube.com/watch?v=YQs6IC-vgmo)
 
 #### Helpful link:
-- [Something you know about the pointer to pointer](https://www.eskimo.com/~scs/cclass/int/sx8.html)
+- [Something you know about the pointer to pointer](https://www.eskimo.com/~scs/cclass/int/sx8.html)<br />
 
 #### Note:
 <br />
@@ -89,7 +89,7 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 
 <br />
 
-- ### Hash Tables
+### Hash Tables
 (it call map or unordered_map in c++)
 #### Helpful video: 
 - [Concept/ Something you should know](https://www.youtube.com/watch?v=shs0KM3wKv8)
@@ -115,21 +115,21 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - (Leetcode beginner package about hash)https://leetcode.com/explore/learn/card/hash-table/
 <br />
 
-- ### Stacks
+### Stacks
 
-- ### Queues
+### Queues
 
-- ### Trees
+### Trees
 
-- ### Graphs
+### Graphs
 
 ## Algorithms
-- ### Recursion
-- ### Sorting
-- ### Searching
-- ### dynamic programming
-- ### squaring
-- ### Primality Testing
+### Recursion
+### Sorting
+### Searching
+### dynamic programming
+### squaring
+### Primality Testing
 
 ## More
 Updating
