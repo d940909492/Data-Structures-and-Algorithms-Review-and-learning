@@ -68,16 +68,17 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 <br />
 
 - ### Linked lists
-#### (updating)
-<br />
+#### Helpful video:
+- https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK?authMode=signup&redirectTo=%2Flecture%2Fdata-structures%2Fsingly-linked-lists-kHhgK
 
+<br />
 
 - ### Hash Tables
 (it call map or unordered_map in c++)
 #### Helpful video: 
-- Concept: https://www.youtube.com/watch?v=shs0KM3wKv8
-- Implementation with STL: https://www.youtube.com/watch?v=Uv0kd7mM0ts
-- Implementation without STL:https://www.youtube.com/watch?v=2_3fR-k-LzI&t=558s
+- [Concept/ Something you should know](https://www.youtube.com/watch?v=shs0KM3wKv8)
+- [Implementation with STL](https://www.youtube.com/watch?v=Uv0kd7mM0ts)
+- [Implementation without STL](https://www.youtube.com/watch?v=2_3fR-k-LzI&t=558s)
 - https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9
 - (Advanced) https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12
 <br />
