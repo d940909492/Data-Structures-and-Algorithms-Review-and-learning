@@ -84,7 +84,7 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 <br />
 
 #### Note:
-[Linked list implementation code](https://github.com/shree1999/Data-Structures-and-Algorithms/blob/master/LinkedList-dataStructure/LL-implementation/main.cpp)
+[Linked list implementation code](https://github.com/d940909492/Data-Structures-and-Algorithms-learning/blob/main/Data%20Structures/Linked%20list/single_linked_list.cpp)
 <br />
 
 #### Leetcode:
