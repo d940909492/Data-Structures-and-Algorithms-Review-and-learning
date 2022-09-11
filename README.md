@@ -86,7 +86,7 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 <br />
 
 #### Note:
-[Linked list implementation code](https://github.com/d940909492/Data-Structures-and-Algorithms-learning/blob/main/Data%20Structures/Linked%20list/single_linked_list.cpp)
+[Linked list implementation code](https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/Data%20Structures/Linked%20list)
 ##### We can use STL to do linked list, remember: Forward List is singly linked list , and List is double Linked list :
 - [Foward List](https://cplusplus.com/reference/forward_list/forward_list/)
 - [List](https://cplusplus.com/reference/list/list/)
