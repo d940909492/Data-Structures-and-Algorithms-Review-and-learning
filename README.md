@@ -71,6 +71,7 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 #### Helpful video:
 - [Singly-Linked Lists](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
 - [Double linked Lists](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
+- [Arrays vs Linked-list](https://www.youtube.com/watch?v=DyG9S9nAlUM)
 - [Linked list and Array](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9)
 - [Linked list and Array in real world](https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd)
 - [How to create link lists in c++](https://www.youtube.com/watch?v=o5wJkJJpKtM)
