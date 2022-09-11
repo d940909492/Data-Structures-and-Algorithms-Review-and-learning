@@ -12,12 +12,6 @@ With just the added feature of the pointer to the previous node.
 #include <iostream>
 using namespace std;
 
-/* 
-we consider a node with two properties
-1. Data(now integer)
-2. link containing the address of the other node that it points.
-*/
-
 struct Node
 {
     int data;
