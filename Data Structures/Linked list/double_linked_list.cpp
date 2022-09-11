@@ -1,15 +1,12 @@
 /*
-Linked lists are, as the name suggests, a list which is linked.
-It consists of nodes which contain data and a pointer to the next node in the list.
-The list is connected with the help of these pointers.
-These nodes are scattered in memory, quite like the buckets in a hash table.
-The node where the list starts is called the head of theblist and the node where it ends, or last node, is called the tail of the list.
-The average time complexity of some operations invloving linked lists are as follows:
-display : O(n)
-insert : O(n)
-remove : O(n)
-append : O(1)
-push : O(1)
+Doubly linked lists are just normal, singly linked lists with one added feature,
+a link to the previous node as well in addition to a link to the next node.
+Although the worst case time complexities of all operations in a doubly linked list are same as that of a singly linked list,
+Some operations are technically faster. For example, lookup or searching, is O(n/2) as search can begin from both ends
+But O(n/2) = O(n), so it is still the same as that for a singly linked list.
+
+Implementation of doubly linked list is almost exactly the same as that for singly linked list,
+With just the added feature of the pointer to the previous node.
 */
 
 #include <iostream>
