@@ -82,10 +82,14 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 - [Something you know about the pointer to pointer](https://www.eskimo.com/~scs/cclass/int/sx8.html)
 - [Useful website about c++ linked lists](https://www.geeksforgeeks.org/data-structures/linked-list/)
 - [Very useful tool for understand how linked list work](https://visualgo.net/en/list)
+- [Difference Between Forward List and List in C++](https://www.geeksforgeeks.org/difference-between-forward-list-and-list-in-c/) (ps:linked list with STL)
 <br />
 
 #### Note:
 [Linked list implementation code](https://github.com/d940909492/Data-Structures-and-Algorithms-learning/blob/main/Data%20Structures/Linked%20list/single_linked_list.cpp)
+##### We can use STL to do linked list, remember: Forward List is singly linked list , and List is double Linked list :
+- [Foward List](https://cplusplus.com/reference/forward_list/forward_list/)
+- [List](https://cplusplus.com/reference/list/list/)
 <br />
 
 #### Leetcode:
