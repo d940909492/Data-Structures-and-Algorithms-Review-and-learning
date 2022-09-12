@@ -50,7 +50,7 @@ Also, this is the best guide for learning DS and Alg: https://github.com/jwasham
 
 #### Note:
 Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/Data%20Structures/Array <br />
-Heres link without stl for array implementation: https://github.com/d940909492/Data-Structures-and-Algorithms/tree/master/Arrays-Implementation <br />
+[Heres link without stl for array implementation](https://github.com/shree1999/Data-Structures-and-Algorithms/blob/master/Arrays-Implementation/arrays/main.cpp) <br />
 ##### (PS: Most of my notes are using vector, so if you are not familiar with vector, heres useful link: [vector](https://www.geeksforgeeks.org/vector-in-cpp-stl/) 
 <br />
 
