@@ -94,6 +94,7 @@ Heres link without stl for array implementation: https://github.com/d940909492/D
 <br />
 
 #### Leetcode:
+[Leetcode Linked-list problems](https://leetcode.com/tag/linked-list/)
 <br />
 
 <br />
@@ -120,11 +121,20 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 <br />
 
 #### LeetCode:
-- (Hash table practice): https://leetcode.com/tag/hash-table/
+- [Hash table practice](https://leetcode.com/tag/hash-table/)
 - (Leetcode beginner package about hash)https://leetcode.com/explore/learn/card/hash-table/
 <br />
 
 ### Stacks
+#### Video
+<br />
+#### Note
+<br />
+#### Helpful link
+<br />
+#### LeetCode:
+[LeetCode Stacks problems](https://leetcode.com/tag/stack/)<br />
+<br />
 
 ### Queues
 
