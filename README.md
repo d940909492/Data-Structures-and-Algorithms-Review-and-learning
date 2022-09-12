@@ -131,14 +131,17 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 [Stack in c++, Implementation with STL](https://www.youtube.com/watch?v=GBST5uQ_yos)
 [Stack implementation without STL](https://www.youtube.com/watch?v=08QSylWv6jM)
 <br />
+
 #### Note:
 https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/Data%20Structures/Stacks
 <br />
+
 #### Helpful link:
 [Stack STL Reference](https://cplusplus.com/reference/stack/stack/)
 [Stack in C++ STL](https://www.geeksforgeeks.org/stack-in-cpp-stl/)
 [Stack implementation without STL](https://www.softwaretestinghelp.com/stack-in-cpp/)
 <br />
+
 #### LeetCode:
 [LeetCode Stacks problems](https://leetcode.com/tag/stack/)<br />
 <br />
