@@ -42,6 +42,7 @@ Also, this is the best guide for learning DS and Alg: https://github.com/jwasham
 ## Data Structures
 ### Arrays
 #### Helpful video: 
+- [ARRAY - Making DATA STRUCTURES in C++](https://www.youtube.com/watch?v=TzB5ZeKQIHM)
 - https://www.youtube.com/watch?v=jzJlq35dQII&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=6
 - https://www.youtube.com/watch?v=30MKAcoffIo&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=7
 - https://www.coursera.org/lecture/data-structures/arrays-OsBSF
