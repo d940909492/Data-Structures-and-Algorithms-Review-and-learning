@@ -126,13 +126,13 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 <br />
 
 ### Stacks
-#### Video
+   #### Video:
 <br />
-#### Note
+   #### Note:
 <br />
-#### Helpful link
+   #### Helpful link:
 <br />
-#### LeetCode:
+   #### LeetCode:
 [LeetCode Stacks problems](https://leetcode.com/tag/stack/)<br />
 <br />
 
