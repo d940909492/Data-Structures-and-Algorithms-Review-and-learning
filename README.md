@@ -147,6 +147,20 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 <br />
 
 ### Queues
+#### Video:
+<br />
+
+#### Note:
+https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/Data%20Structures/Queues
+<br />
+
+#### Helpful link:
+
+<br />
+
+#### LeetCode:
+[LeetCode Queues problems](https://leetcode.com/tag/queue/)<br />
+<br />
 
 ### Trees
 
