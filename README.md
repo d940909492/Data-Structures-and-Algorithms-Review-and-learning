@@ -148,6 +148,11 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 
 ### Queues
 #### Video:
+- [Data structures: Introduction to Queues](https://www.youtube.com/watch?v=XuCbpw6Bj1U)
+- [Queues](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+- [Queue and FIFO/FCFS explain](https://www.youtube.com/watch?v=jaK4pn1jXTo)
+- [Data Structures Using C++: STL Queue Class](https://www.youtube.com/watch?v=xYLk66M8OIc)
+- [Data Structures: Stacks and Queues](https://www.youtube.com/watch?v=wjI1WNcIntg)
 <br />
 
 #### Note:
@@ -155,7 +160,9 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 <br />
 
 #### Helpful link:
-
+- [Queue STL](https://cplusplus.com/reference/queue/)
+- [Queue in C++ STL](https://www.geeksforgeeks.org/queue-cpp-stl/)
+- [Queue without STL](https://www.techiedelight.com/queue-implementation-cpp/)
 <br />
 
 #### LeetCode:
