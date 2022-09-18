@@ -175,6 +175,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - [Introduction to Trees](https://www.youtube.com/watch?v=1-l_UOFi1Xw)
 - [BFS and DFS in a Binary Tree](https://www.youtube.com/watch?v=uWL6FJhq5fM)
 - [c++ Tree data structure ](https://www.youtube.com/watch?v=UHxtjVsOTHc)
+- [Tree Traversal](https://www.coursera.org/lecture/data-structures/tree-traversal-fr51b)
 <br />
 
  ##### Binary Search Tree:
@@ -191,6 +192,10 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - [BINARY SEARCH TREE TOOL](https://visualgo.net/en/bst?slide=1)
 - [Data Structures](https://www.geeksforgeeks.org/data-structures/)
 - [Learning Tree Data Structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
+- [Difference between Binary Tree and Binary Search Tree](https://www.geeksforgeeks.org/difference-between-binary-tree-and-binary-search-tree/)
+- [Difference between Binary Tree and Binary Search Tree(Better one)](https://stackoverflow.com/questions/6380231/difference-between-binary-tree-and-binary-search-tree)
+- [Tree traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+
 
 ### Graphs
 
