@@ -177,6 +177,16 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - [BFS and DFS in a Binary Tree](https://www.youtube.com/watch?v=uWL6FJhq5fM)
 - [c++ Tree data structure ](https://www.youtube.com/watch?v=UHxtjVsOTHc)
 - [Binary search tree - Implementation in C/C++](https://www.youtube.com/watch?v=COZK7NATh4k)
+<br />
+
+#### Note:
+https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/Data%20Structures/Trees
+<br />
+
+#### Helpful link:
+- [BINARY SEARCH TREE TOOL](https://visualgo.net/en/bst?slide=1)
+- [Data Structures](https://www.geeksforgeeks.org/data-structures/)
+- [Learning Tree Data Structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
 
 ### Graphs
 
