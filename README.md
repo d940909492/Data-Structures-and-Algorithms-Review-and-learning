@@ -177,7 +177,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - [c++ Tree data structure ](https://www.youtube.com/watch?v=UHxtjVsOTHc)
 <br />
 
-- ##### Binary Search Tree:
+ ##### Binary Search Tree:
 - [Binary Search Tree](https://www.youtube.com/watch?v=x6At0nzX92o&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=2)
 - [Binary search tree - Implementation in C/C++](https://www.youtube.com/watch?v=COZK7NATh4k)
 
