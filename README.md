@@ -18,6 +18,7 @@ Also, this is the best guide for learning DS and Alg: https://github.com/jwasham
    - [Trees](#Trees)
    - [Graphs](#Graphs)
 4. [Algorithms](#Algorithms)
+   - [Tree Algorithms](#Tree-Algorithms)
    - [Recursion](#Recursion)
    - [Sorting](#Sorting)
    - [Searching](#Searching)
@@ -201,6 +202,11 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 ### Graphs
 
 ## Algorithms
+### Tree Algorithms
+#### Video:
+- [Tree traversal algorithms (BFS and DFS - Preorder, Inorder, Postorder)](https://www.youtube.com/watch?v=_IhTp8q0Mm0)
+<br />
+
 ### Recursion
 ### Sorting
 ### Searching
