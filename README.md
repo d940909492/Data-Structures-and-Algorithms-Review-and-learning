@@ -199,6 +199,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - [Difference between Binary Tree and Binary Search Tree](https://www.geeksforgeeks.org/difference-between-binary-tree-and-binary-search-tree/)
 - [Difference between Binary Tree and Binary Search Tree(Better one)](https://stackoverflow.com/questions/6380231/difference-between-binary-tree-and-binary-search-tree)
 - [Tree traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+- [Priority Queue](https://favtutor.com/blogs/priority-queue-cpp))
 
    ##### AVL tree and Red Black(RB) Tree:
    - [Tool to show AVL](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
