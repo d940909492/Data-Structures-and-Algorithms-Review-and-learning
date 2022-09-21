@@ -222,9 +222,20 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 #### video
 #### Note
 #### Helpful link
-#### LeetCode
-
+- [Graph Data Structure And Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/?ref=shm)
+- [Graph and its representations](https://www.geeksforgeeks.org/graph-and-its-representations/)
+- [Graph Implementation In C++ Using Adjacency List](https://www.softwaretestinghelp.com/graph-implementation-cpp/)
+- [Graph Implementation in C++ using STL](https://www.techiedelight.com/graph-implementation-using-stl/)
 <br />
+#### LeetCode
+- [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+- [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
+- [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+- [HARD-- 773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)
+- [More graph leetcode question](https://leetcode.com/tag/graph/)
+<br />
+
 ## Algorithms
 ### Tree Algorithms
 #### Video:
