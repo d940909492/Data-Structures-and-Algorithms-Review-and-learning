@@ -174,6 +174,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 #### Video:
 - [Basic Trees](https://www.coursera.org/lecture/data-structures/trees-95qda)
 - [Introduction to Trees](https://www.youtube.com/watch?v=1-l_UOFi1Xw)
+- [Heaps](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
 - [BFS and DFS in a Binary Tree](https://www.youtube.com/watch?v=uWL6FJhq5fM)
 - [c++ Tree data structure ](https://www.youtube.com/watch?v=UHxtjVsOTHc)
 - [Tree Traversal](https://www.coursera.org/lecture/data-structures/tree-traversal-fr51b)
