@@ -198,6 +198,12 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - [Difference between Binary Tree and Binary Search Tree](https://www.geeksforgeeks.org/difference-between-binary-tree-and-binary-search-tree/)
 - [Difference between Binary Tree and Binary Search Tree(Better one)](https://stackoverflow.com/questions/6380231/difference-between-binary-tree-and-binary-search-tree)
 - [Tree traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+
+   ##### AVL tree and Red Black(RB) Tree:
+   - [Tool to show AVL](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+   - [How AVL work](https://medium.com/basecs/the-little-avl-tree-that-could-86a3cae410c7)
+   - [Tool to show RB tree](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
+   - [How red and black tree work](https://medium.com/basecs/painting-nodes-black-with-red-black-trees-60eacb2be9a5)
 <br />
 
 #### Leetcode:
