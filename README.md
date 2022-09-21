@@ -207,7 +207,12 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 <br />
 
 #### Leetcode:
-[Tree tag](https://leetcode.com/tag/tree/)
+- [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
+- [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+- [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [More Tree question](https://leetcode.com/tag/tree/)
 <br />
 
 ### Graphs
