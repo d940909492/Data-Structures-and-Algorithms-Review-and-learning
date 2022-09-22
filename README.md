@@ -227,8 +227,9 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - [Adjacency Matrix in Graph Data Structure](https://www.youtube.com/watch?v=lUF83PciW4s)
 - [Graph Representation in Data Structure](https://www.youtube.com/watch?v=TDXDhcSl0UM)
 <br />
+
 #### Note:
-https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Data%20Structures/Graphs
+   - https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Data%20Structures/Graphs
 <br />
 
 #### Helpful link:
