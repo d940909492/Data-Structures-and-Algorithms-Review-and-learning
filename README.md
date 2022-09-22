@@ -25,7 +25,8 @@ Also, this is the best guide for learning DS and Alg: https://github.com/jwasham
    - [dynamic programming](#dynamic-programming)
    - [squaring](#Squaring)
    - [Primality Testing](#Primality-Testing)
-5. [More,updating...](#More)
+5. (#More)
+   - [SQL](#SQL)
 <br />
 
 ## BIG O And Algorithmic complexity
@@ -252,4 +253,4 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 ### Primality Testing
 
 ## More
-Updating
+### SQL
