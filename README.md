@@ -220,8 +220,14 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 
 ### Graphs
 
-#### video
-#### Note
+#### video:
+- [CSE 373 - Graph](https://www.youtube.com/watch?v=Sjk0xqWWPCc&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=11)
+- 
+<br />
+#### Note:
+https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Data%20Structures/Graphs
+<br />
+
 #### Helpful link:
 - [Tool that use for GRAPH](https://visualgo.net/en/graphds?slide=1-2)
 - [Graph Data Structure And Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/?ref=shm)
@@ -254,3 +260,5 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 
 ## More
 ### SQL
+#### Video:
+- https://www.youtube.com/watch?v=HXV3zeQKqGY
