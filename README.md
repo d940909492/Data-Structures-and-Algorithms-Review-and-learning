@@ -50,7 +50,7 @@ Also, this is the best guide for learning DS and Alg: https://github.com/jwasham
 - https://www.coursera.org/lecture/data-structures/arrays-OsBSF
 - https://www.youtube.com/watch?v=1jtrQqYpt7g <br />
 
-#### Note:
+#### Code:
 Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/Data%20Structures/Array <br />
 [Heres link without stl for array implementation](https://github.com/shree1999/Data-Structures-and-Algorithms/blob/master/Arrays-Implementation/arrays/main.cpp) <br />
 ##### (PS: Most of my notes are using vector, so if you are not familiar with vector, heres useful link: [vector](https://www.geeksforgeeks.org/vector-in-cpp-stl/) 
@@ -88,7 +88,7 @@ Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learnin
 - [Difference Between Forward List and List in C++](https://www.geeksforgeeks.org/difference-between-forward-list-and-list-in-c/) (ps:linked list with STL)
 <br />
 
-#### Note:
+#### Code:
 [Linked list implementation code](https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/Data%20Structures/Linked%20list)
 ##### We can use STL to do linked list, remember: Forward List is singly linked list , and List is double Linked list :
 - [Foward List](https://cplusplus.com/reference/forward_list/forward_list/)
@@ -110,7 +110,7 @@ Heres Link: https://github.com/d940909492/Data-Structures-and-Algorithms-learnin
 - [Advanced](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9)
 - [Advanced](https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12)
 
-#### Note:
+#### Code:
 ##### Note for how to implement hash with stl and without stl: <br />
 https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/Data%20Structures/Hash%20Tables <br />
 <br />
@@ -134,7 +134,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - [Stack implementation without STL](https://www.youtube.com/watch?v=08QSylWv6jM)
 <br />
 
-#### Note:
+#### Code:
 https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/Data%20Structures/Stacks
 <br />
 
@@ -157,7 +157,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - [Data Structures: Stacks and Queues](https://www.youtube.com/watch?v=wjI1WNcIntg)
 <br />
 
-#### Note:
+#### Code:
 https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/Data%20Structures/Queues
 <br />
 
@@ -188,7 +188,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 
 <br />
 
-#### Note:
+#### Code:
 https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/Data%20Structures/Trees
 <br />
 
@@ -228,7 +228,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - [Graph Representation in Data Structure](https://www.youtube.com/watch?v=TDXDhcSl0UM)
 <br />
 
-#### Note:
+#### Code:
    - https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Data%20Structures/Graphs
 <br />
 
