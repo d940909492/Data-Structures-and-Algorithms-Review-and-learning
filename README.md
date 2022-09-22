@@ -222,7 +222,10 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 
 #### video:
 - [CSE 373 - Graph](https://www.youtube.com/watch?v=Sjk0xqWWPCc&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=11)
-- 
+- [Data structures: Introduction to graphs](https://www.youtube.com/watch?v=gXgEDyodOJU)
+- [Graph Data Structure | Creating Adjacency List in C++](https://www.youtube.com/watch?v=dhgKr8942rs)
+- [Adjacency Matrix in Graph Data Structure](https://www.youtube.com/watch?v=lUF83PciW4s)
+- [Graph Representation in Data Structure](https://www.youtube.com/watch?v=TDXDhcSl0UM)
 <br />
 #### Note:
 https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Data%20Structures/Graphs
