@@ -25,7 +25,7 @@ Also, this is the best guide for learning DS and Alg: https://github.com/jwasham
    - [dynamic programming](#dynamic-programming)
    - [squaring](#Squaring)
    - [Primality Testing](#Primality-Testing)
-5. (#More)
+5. (More thing to learn)
    - [SQL](#SQL)
 <br />
 
