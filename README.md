@@ -264,6 +264,13 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 #### code:
 https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Algorithms/Recursion
 <br />
+When we talk about below porblem, we use recursion:
+ - Merge Sort
+ - Quick Sort
+ - Tree Traversal
+ - Graph Traversal
+ - More
+<br />
 
 #### leetcode problem:
 
