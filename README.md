@@ -288,19 +288,20 @@ https://leetcode.com/tag/recursion/
 ### Sorting
 Big topic,so I might need more time to finish this, which mean that I would keep update this topic even in later topic
 <br />
-#### Videos:
+
+ #### Videos:
 -[Very Interesting video about 15 Sorting Algorithms](https://www.youtube.com/watch?v=kPRA0W1kECg)
-
 <br />
-#### Helpful link:
+
+ #### Helpful link:
 - [Sorting Algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)
-
 <br />
-#### Note and Code:
+
+ #### Note and Code:
 [Heres the codes](https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Algorithms/Sorting)
 <br />
 
-#### Leetcode problem:
+ #### Leetcode problem:
 https://leetcode.com/tag/sorting/
 <br />
 
