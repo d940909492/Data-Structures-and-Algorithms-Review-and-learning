@@ -257,13 +257,20 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 
 ### Recursion
 #### video:
-
+- [Introduction to Recursion](https://www.youtube.com/watch?v=B0NtAFf4bvU&t=1s)
+- [C++ FUNCTIONS (2020) - What is recursion?](https://www.youtube.com/watch?v=MwfvXDfaZeI)
+- [Tail Recursion](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
+- [5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w)
+<br />
 
 #### useful link:
+- [Introduction to Recursion – Data Structure and Algorithm Tutorials](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/)
+<br />
 
 #### code:
 https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Algorithms/Recursion
 <br />
+##### Note: <br/>
 When we talk about below porblem, we use recursion:
  - Merge Sort
  - Quick Sort
@@ -273,7 +280,7 @@ When we talk about below porblem, we use recursion:
 <br />
 
 #### leetcode problem:
-
+https://leetcode.com/tag/recursion/
 
 <br/>
 ### Sorting
