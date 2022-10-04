@@ -284,17 +284,16 @@ When we talk about below porblem, we use recursion:
 https://leetcode.com/tag/recursion/
 
 <br />
- ### Sorting
-<br />
+
+### Sorting
 Big topic,so I might need more time to finish this, which mean that I would keep update this topic even in later topic
 <br />
 #### Videos:
-
-
 -[Very Interesting video about 15 Sorting Algorithms](https://www.youtube.com/watch?v=kPRA0W1kECg)
 
 <br />
 #### Helpful link:
+- [Sorting Algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)
 
 <br />
 #### Note and Code:
@@ -302,7 +301,7 @@ Big topic,so I might need more time to finish this, which mean that I would keep
 <br />
 
 #### Leetcode problem:
-
+https://leetcode.com/tag/sorting/
 <br />
 
 <br />
