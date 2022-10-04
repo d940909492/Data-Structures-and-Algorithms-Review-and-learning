@@ -254,6 +254,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 #### Video:
 - [Tree traversal algorithms (BFS and DFS - Preorder, Inorder, Postorder)](https://www.youtube.com/watch?v=_IhTp8q0Mm0)
 <br />
+<br />
 
 ### Recursion
 #### video:
@@ -282,8 +283,30 @@ When we talk about below porblem, we use recursion:
 #### leetcode problem:
 https://leetcode.com/tag/recursion/
 
-<br/>
+<br />
+<br />
 ### Sorting
+<br />
+Big topic,so I might need more time to finish this, which mean that I would keep update this topic even in later topic
+<br />
+#### Videos:
+
+
+-[Very Interesting video about 15 Sorting Algorithms](https://www.youtube.com/watch?v=kPRA0W1kECg)
+
+<br />
+#### Helpful link:
+
+<br />
+#### Note and Code:
+[Heres the codes](https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Algorithms/Sorting)
+<br />
+
+#### Leetcode problem:
+
+<br />
+
+<br />
 ### Searching
 ### dynamic programming
 ### squaring
