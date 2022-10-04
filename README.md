@@ -284,8 +284,7 @@ When we talk about below porblem, we use recursion:
 https://leetcode.com/tag/recursion/
 
 <br />
-<br />
-### Sorting
+ ### Sorting
 <br />
 Big topic,so I might need more time to finish this, which mean that I would keep update this topic even in later topic
 <br />
