@@ -292,6 +292,7 @@ Big topic,so I might need more time to finish this, which mean that I would keep
  #### Videos:
 - [Understanding basic Sorting Algorithms](https://www.youtube.com/watch?v=l7-f9gS8VOs)
 - [Very Interesting video about 15 Sorting Algorithms](https://www.youtube.com/watch?v=kPRA0W1kECg)
+- [another interesting video that show sorting using dance](https://www.youtube.com/user/AlgoRythmics/videos)
 - [Video lists about differetnt sorting](https://www.youtube.com/playlist?list=PL89B61F78B552C1AB)
 <br />
 
