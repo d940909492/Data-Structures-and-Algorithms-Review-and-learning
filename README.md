@@ -304,6 +304,10 @@ Big topic,so I might need more time to finish this, which mean that I would keep
 - [Merge Sort](https://www.programiz.com/dsa/merge-sort)
 - [Quick sort](https://www.programiz.com/dsa/quick-sort)
 - [Heap sort](https://www.programiz.com/dsa/heap-sort)
+- [Radix sort](https://brilliant.org/wiki/radix-sort/)
+- [Counting sort](https://brilliant.org/wiki/counting-sort/)
+<br />
+Radix and counting sort only work for int or number only
 <br />
 
  #### Note and Code:
