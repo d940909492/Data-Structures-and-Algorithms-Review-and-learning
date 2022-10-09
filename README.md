@@ -300,6 +300,9 @@ Big topic,so I might need more time to finish this, which mean that I would keep
  #### Helpful link:
 - [Sorting Algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)
 - [very useful tool of Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
+- [Merge Sort](https://www.programiz.com/dsa/merge-sort)
+- [Quick sort](https://www.programiz.com/dsa/quick-sort)
+- [Heap sort](https://www.programiz.com/dsa/heap-sort)
 <br />
 
  #### Note and Code:
