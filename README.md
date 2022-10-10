@@ -323,26 +323,27 @@ https://leetcode.com/tag/sorting/
  - [Linear Search (similar looping)](https://www.youtube.com/watch?v=4GPdGsB3OSc)
  - [Algorithms: Binary Search](https://www.youtube.com/watch?v=P3YID7liBug)
  - [Binary Search playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwL3ldWlrii6YeLszojgH77j)
- 
- <br />
+<br />
+  
  #### Helpful Link:
  - [Searching Algorithms](https://www.geeksforgeeks.org/searching-algorithms/)
  - [Binary Search](https://www.programiz.com/dsa/binary-search)
+<br />
  
- <br />
 #### Note and Code:
 https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Algorithms/searching
-
 <br />
+
 #### Leetcode:
 - [Binary Search](https://leetcode.com/tag/binary-search/)
 - [Breadth-First Search](https://leetcode.com/tag/breadth-first-search/)
 - [Depth-First Search](https://leetcode.com/tag/depth-first-search/)
-
 <br />
-### dynamic programming
-### squaring
-### Primality Testing
+
+
+### dynamic programming:
+### squaring:
+### Primality Testing:
 
 ## More
 ### SQL
