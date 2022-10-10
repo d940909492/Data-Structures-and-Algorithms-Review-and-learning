@@ -316,8 +316,8 @@ Radix and counting sort only work for int or number only
 
  #### Leetcode problem:
 https://leetcode.com/tag/sorting/
-<br />
 
+<br />
 
 ### Searching
  #### Videos:
@@ -331,12 +331,12 @@ https://leetcode.com/tag/sorting/
  - [Binary Search](https://www.programiz.com/dsa/binary-search)
 <br />
  
-#### Note and Code:
+ #### Note and Code:
 https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Algorithms/searching
 <br />
 
 
-#### Leetcode:
+ #### Leetcode:
 - [Binary Search](https://leetcode.com/tag/binary-search/)
 - [Breadth-First Search](https://leetcode.com/tag/breadth-first-search/)
 - [Depth-First Search](https://leetcode.com/tag/depth-first-search/)
