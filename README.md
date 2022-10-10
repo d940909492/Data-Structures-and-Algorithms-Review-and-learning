@@ -318,7 +318,7 @@ Radix and counting sort only work for int or number only
 https://leetcode.com/tag/sorting/
 <br />
 
-<br />
+
 ### Searching
  #### Videos:
  - [Linear Search (similar looping)](https://www.youtube.com/watch?v=4GPdGsB3OSc)
@@ -335,7 +335,7 @@ https://leetcode.com/tag/sorting/
 https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Algorithms/searching
 <br />
 
-<br />
+
 #### Leetcode:
 - [Binary Search](https://leetcode.com/tag/binary-search/)
 - [Breadth-First Search](https://leetcode.com/tag/breadth-first-search/)
