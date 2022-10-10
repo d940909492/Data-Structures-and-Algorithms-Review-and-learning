@@ -327,9 +327,9 @@ https://leetcode.com/tag/sorting/
  <br />
  #### Helpful Link:
  - [Searching Algorithms](https://www.geeksforgeeks.org/searching-algorithms/)
+ - [Binary Search](https://www.programiz.com/dsa/binary-search)
  
  <br />
- 
  #### Note and Code:
  https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Algorithms/searching
 <br />
