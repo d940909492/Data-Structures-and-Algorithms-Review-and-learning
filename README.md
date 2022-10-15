@@ -324,11 +324,18 @@ https://leetcode.com/tag/sorting/
  - [Linear Search (similar looping)](https://www.youtube.com/watch?v=4GPdGsB3OSc)
  - [Algorithms: Binary Search](https://www.youtube.com/watch?v=P3YID7liBug)
  - [Binary Search playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwL3ldWlrii6YeLszojgH77j)
+ - [Breadth-first search in 4 minutes](https://www.youtube.com/watch?v=HZ5YTanv5QE)
+ - [Depth-first search in 4 minutes](https://www.youtube.com/watch?v=Urx87-NMm6c&t=3s)
 <br />
   
  #### Helpful Link:
  - [Searching Algorithms](https://www.geeksforgeeks.org/searching-algorithms/)
  - [Binary Search](https://www.programiz.com/dsa/binary-search)
+ - [Depth First Search (DFS)](https://www.programiz.com/dsa/graph-dfs)
+ - [Breadth first search](https://www.programiz.com/dsa/graph-bfs)
+ - [Breadth First Search or BFS for a Graph](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
+ - [Depth First Search or DFS for a Graph](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
+ - [BFS vs DFS for Binary Tree in C++](https://www.tutorialspoint.com/bfs-vs-dfs-for-binary-tree-in-cplusplus)
 <br />
  
  #### Note and Code:
