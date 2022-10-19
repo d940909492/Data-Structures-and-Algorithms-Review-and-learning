@@ -326,6 +326,7 @@ https://leetcode.com/tag/sorting/
  - [Binary Search playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwL3ldWlrii6YeLszojgH77j)
  - [Breadth-first search in 4 minutes](https://www.youtube.com/watch?v=HZ5YTanv5QE)
  - [Depth-first search in 4 minutes](https://www.youtube.com/watch?v=Urx87-NMm6c&t=3s)
+ - [Tree traversal algorithms (BFS and DFS - Preorder, Inorder, Postorder)](https://www.youtube.com/watch?v=_IhTp8q0Mm0&t=1s)
 <br />
   
  #### Helpful Link:
