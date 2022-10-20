@@ -329,6 +329,10 @@ https://leetcode.com/tag/sorting/
  - [Tree traversal algorithms (BFS and DFS - Preorder, Inorder, Postorder)](https://www.youtube.com/watch?v=_IhTp8q0Mm0&t=1s)
 <br />
   
+ #### Useful Tool to understand the searching in graph:
+ [Visualgo Graph Traversal](https://visualgo.net/en/dfsbfs?slide=1)
+ <br />
+  
  #### Helpful Link:
  - [Searching Algorithms](https://www.geeksforgeeks.org/searching-algorithms/)
  - [Binary Search](https://www.programiz.com/dsa/binary-search)
