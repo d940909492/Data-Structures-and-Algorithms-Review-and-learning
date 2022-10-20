@@ -346,6 +346,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning
 
 
  #### Leetcode:
+- [Common question might be ask in interview - 98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [Binary Search](https://leetcode.com/tag/binary-search/)
 - [Breadth-First Search](https://leetcode.com/tag/breadth-first-search/)
 - [Depth-First Search](https://leetcode.com/tag/depth-first-search/)
