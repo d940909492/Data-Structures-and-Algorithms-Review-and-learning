@@ -44,7 +44,7 @@ int main() {
   root->left->right = createNode(5);
   root->right->left = createNode(6);
   root->right->right = createNode(7);
-
+  cout<<"BFS: "<<endl;
   BFS(root);
-  cin.get();
+  return 0;
 }
