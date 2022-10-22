@@ -23,9 +23,10 @@ Also, this is the best guide for learning DS and Alg: https://github.com/jwasham
    - [Sorting](#Sorting)
    - [Searching](#Searching)
    - [dynamic programming](#dynamic-programming)
+
+5. [More thing to learn](#More)
    - [squaring](#Squaring)
    - [Primality Testing](#Primality-Testing)
-5. [More thing to learn](#More)
    - [SQL](#SQL)
 <br />
 
@@ -365,10 +366,16 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning
 
 
 ### dynamic programming:
-### squaring:
-### Primality Testing:
+
 
 ## More
+### squaring:
+<br />
+
+### Primality Testing:
+<br />
+
 ### SQL
 #### Video:
 - https://www.youtube.com/watch?v=HXV3zeQKqGY
+<br />
