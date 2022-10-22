@@ -327,6 +327,9 @@ https://leetcode.com/tag/sorting/
  - [Breadth-first search in 4 minutes](https://www.youtube.com/watch?v=HZ5YTanv5QE)
  - [Depth-first search in 4 minutes](https://www.youtube.com/watch?v=Urx87-NMm6c&t=3s)
  - [Tree traversal algorithms (BFS and DFS - Preorder, Inorder, Postorder)](https://www.youtube.com/watch?v=_IhTp8q0Mm0&t=1s)
+ - [Dijkstra's algorithm in 3 minutes](https://www.youtube.com/watch?v=_lHSawdgXpI)
+ - [Dijkstra’s Shortest Path Algorithm](https://www.youtube.com/watch?v=pVfj6mxhdMw)
+ - [Bellman-Ford in 5 minutes](https://www.youtube.com/watch?v=obWXjtg0L64)
 <br />
   
  #### Useful Tool to understand the searching in graph:
@@ -342,6 +345,10 @@ https://leetcode.com/tag/sorting/
  - [Depth First Search or DFS for a Graph](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
  - [BFS vs DFS for Binary Tree in C++](https://www.tutorialspoint.com/bfs-vs-dfs-for-binary-tree-in-cplusplus)
  - [DFS Traversal of a Tree Using Recursion](https://www.interviewkickstart.com/learn/dfs-traversal-of-a-tree-using-recursion)
+ - [Dijkstra Algorithm](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
+ - [Dijkstra’s Shortest Path Algorithm](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
+ - [Bellman–Ford Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/)
+ - [Bellman Ford's Algorithm - Programiz] (https://www.programiz.com/dsa/bellman-ford-algorithm)
 <br />
  
  #### Note and Code:
