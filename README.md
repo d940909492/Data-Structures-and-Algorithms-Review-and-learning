@@ -368,19 +368,26 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning
 
 ### dynamic programming:
 #### Videos:
+- [What Is Dynamic Programming and How To Use It](https://www.youtube.com/watch?v=vYquumk4nWw)
+- [Dynamic Programming Playlist of problems](https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
+- [5 Simple Steps for Solving Dynamic Programming Problems](https://www.youtube.com/watch?v=aPQY__2H3tE)
+- 
 <br />
 
 #### Helpful link:
+- [Dynamic Programming in C++](https://www.cprogramming.com/tutorial/computersciencetheory/dp.html)
+- [Dynamic Programming all concepts and examples](https://www.geeksforgeeks.org/dynamic-programming/)
 <br />
 
-#### Note or codes:
+#### Note and codes:
+https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Algorithms/Dynamic%20programming
 <br />
 
 #### LeetCode:
 https://leetcode.com/tag/dynamic-programming/
 <br />
 
-<br />
+
 ## More
 ### squaring:
 <br />
