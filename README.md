@@ -390,7 +390,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning
 [LeetCode challenge](https://leetcode.com/tag/dynamic-programming/)
 <br />
 
-
+------------------
 
 ## More
 ### squaring:
