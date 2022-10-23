@@ -381,12 +381,13 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning
 
 
 #### Note and codes:
-https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Algorithms/Dynamic%20programming
+[My code here](https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/Algorithms/Dynamic%20programming)
+
 <br />
 
 
 #### LeetCode:
-https://leetcode.com/tag/dynamic-programming/
+[LeetCode challenge](https://leetcode.com/tag/dynamic-programming/)
 <br />
 
 
