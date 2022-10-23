@@ -367,8 +367,20 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning
 
 
 ### dynamic programming:
+#### Videos:
+<br />
 
+#### Helpful link:
+<br />
 
+#### Note or codes:
+<br />
+
+#### LeetCode:
+https://leetcode.com/tag/dynamic-programming/
+<br />
+
+<br />
 ## More
 ### squaring:
 <br />
