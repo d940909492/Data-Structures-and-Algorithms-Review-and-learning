@@ -26,8 +26,7 @@ Another useful link to link: https://www.cprogramming.com/algorithms-and-data-st
    - [dynamic programming](#dynamic-programming)
 
 5. [More thing to learn](#More)
-   - [squaring](#Squaring)
-   - [Primality Testing](#Primality-Testing)
+   - [UML](#UML)
    - [SQL](#SQL)
 <br />
 
@@ -394,10 +393,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning
 <br/>
 
 ## More
-### squaring:
-<br />
-
-### Primality Testing:
+### UML:
 <br />
 
 ### SQL
