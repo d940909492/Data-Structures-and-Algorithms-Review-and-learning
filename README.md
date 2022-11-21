@@ -5,7 +5,7 @@ I would put what I learn and some helpful resouces in this repository,
 And I would grateful someone can share knowledege with me <br />
 My personal email: dong5455993@gmail.com<br />
 (This is C++ version, I might update other programming languages) <br />
-Also, this is the best guide for learning DS and Alg: https://github.com/jwasham/coding-interview-university <br />
+Also, this link is the best guide for learning DS and Alg: https://github.com/jwasham/coding-interview-university <br />
 Another useful link to link: https://www.cprogramming.com/algorithms-and-data-structures.html?inl=hp <br />
 
 ## Learning Topics
