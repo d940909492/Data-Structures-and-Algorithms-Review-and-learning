@@ -401,6 +401,8 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning
 ### SQL
 #### Video:
 - https://www.youtube.com/watch?v=HXV3zeQKqGY
+#### Link:
+[Link of SQL learning](https://github.com/d940909492/SQL-learning)
 <br />
 
 ## LeetCode-Problem-Review
