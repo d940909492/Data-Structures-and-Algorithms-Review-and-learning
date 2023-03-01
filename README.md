@@ -416,3 +416,6 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning
 
 ### Image and Note:
 https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning/tree/main/LeetCode%20Problem%20Solving/Image%20and%20Note
+
+### Very useful link: https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0
+
