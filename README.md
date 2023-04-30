@@ -229,6 +229,9 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - [Graph Data Structure | Creating Adjacency List in C++](https://www.youtube.com/watch?v=dhgKr8942rs)
 - [Adjacency Matrix in Graph Data Structure](https://www.youtube.com/watch?v=lUF83PciW4s)
 - [Graph Representation in Data Structure](https://www.youtube.com/watch?v=TDXDhcSl0UM)
+- [Dijkstra's algorithm in 3 minutes](https://www.youtube.com/watch?v=_lHSawdgXpI)
+- [Graph Data Structure 4. Dijkstra’s Shortest Path Algorithm](https://www.youtube.com/watch?v=pVfj6mxhdMw&t=580s)
+- [Dijkstra Algorithm Coding C++ | Shortest Path | Implementation | Graphs | Greedy](https://www.youtube.com/watch?v=a1Z1GmKzcPs)
 <br />
 
 #### Code:
@@ -241,6 +244,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-learning/tree/main/
 - [Graph and its representations](https://www.geeksforgeeks.org/graph-and-its-representations/)
 - [Graph Implementation In C++ Using Adjacency List](https://www.softwaretestinghelp.com/graph-implementation-cpp/)
 - [Graph Implementation in C++ using STL](https://www.techiedelight.com/graph-implementation-using-stl/)
+- [Dijkstra's Algorithm](https://www.programiz.com/dsa/dijkstra-algorithm)
 <br />
 
 #### LeetCode:
