@@ -405,7 +405,7 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning
 
 ## LeetCode-Problem-Review
 <br />
-Goal: Finish these question: [https://leetcode.com/problem-list/top-interview-questions](https://leetcode.com/studyplan/top-interview-150/)/
+Goal: Finish these question: https://leetcode.com/studyplan/top-interview-150/
 <br />
 
 ### Code:
