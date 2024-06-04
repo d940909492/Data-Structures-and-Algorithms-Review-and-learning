@@ -27,7 +27,6 @@ Another useful link for learning: https://www.cprogramming.com/algorithms-and-da
 
 5. [More thing to learn](#More)
    - [UML](#UML)
-   - [SQL](#SQL)
   
 6. [LeetCode-Problem-Review](#LeetCode-Problem-Review)
 <br />
@@ -402,11 +401,6 @@ https://github.com/d940909492/Data-Structures-and-Algorithms-Review-and-learning
 ### UML:
 <br />
 
-### SQL
-#### Video:
-- https://www.youtube.com/watch?v=HXV3zeQKqGY
-#### Link:
-[Link of SQL learning](https://github.com/d940909492/SQL-learning)
 <br />
 
 ## LeetCode-Problem-Review
